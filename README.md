@@ -1,13 +1,9 @@
 # Hi, I'm Anne :tiger: :zap:
 
-## Name and occupation
-
-My name is **Anne** and I am a trainee at **Becode**. 
-
 
 ## Who I am in a funny way
 
-I am a junior web developer at Becode[Becode](https://becode.org/). 
+I am a junior web developer at [Becode](https://becode.org/). 
 
 If I would have to describe my character, I would say that I am a little bit a mix of an **introvert/extravert**. I like to be surrounded with people but I also appreciate to be alone. I find it very important to make time for myself each day. To practice sport (like to do **yoga** or to do **jogging**) enables that I can be with my own and take care of myself. I also enjoy to walk alone and listening to interesting **podcasts** at the same time. 
 I can be funny and social but I need to feel comfortable with people first :simple_smile:.
