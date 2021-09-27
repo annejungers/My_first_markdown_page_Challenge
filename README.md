@@ -1,9 +1,11 @@
 # Hi, I'm Anne :tiger: :zap:
 
 
-## Who I am in a funny way
+## Who I am 
 
 I am a junior web developer at [Becode](https://becode.org/). 
+
+![](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif)
 
 If I would have to describe my character, I would say that I am a little bit a mix of an **introvert/extravert**. I like to be surrounded with people but I also appreciate to be alone. I find it very important to make time for myself each day. To practice sport (like to do **yoga** or to do **jogging**) enables that I can be with my own and take care of myself. I also enjoy to walk alone and listening to interesting **podcasts** at the same time. 
 I can be funny and social but I need to feel comfortable with people first :simple_smile:.
@@ -16,13 +18,13 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 
 ----------------------------------------------------------------------------------------------
 
-## List of my three most surprising skills
+## My three most surprising skills
 1. I speak three languages *French - Dutch - English* fluently and have notion of German
 2. I have two nationalities *Belgian - Luxembourgish*
 3. I have an amazing sense of direction 
 
 
-## List of the three things I like the most in this universe 
+## The three things I like the most in this universe 
 1. Berlin
 2. New Technologies
 3. Healthy food
@@ -34,7 +36,7 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 
 ## Objectives I want to achieve as a Developer during my time at Becode
 * Becoming a **full stack developer**
-* Managing to incorporate AI in my deveper skills
+* Managing to incorporate AI in my developer skills
 * Meeting all the new interesting becode colleagues :heart_eyes:
 * Deepening my knowledge in New Technology
 * Learning the basic of *hacking* and *cybersecurity* :space_invader: :bomb:
@@ -47,21 +49,19 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 * Having trouble to reach for help
 
 
-## The things I look forward to 
+## I look forward to 
 * Learning new things
 * Creating/Developing new things
 * Build my first bot :robot:
 * Practice my English with the Becode people from abroad
 * Looking for a new interesting job in IT
-* Have a week holiday and travel (because it has been a long time ago)
+* Having a week holiday and travel (because it has been a long time ago)
 
 
 ## Three things I value the most to work as a team
-* Communication
-* Not letting someone behind
-* A team leader to assign clear tasks
-* structure, clarity
-* The possibility, the time to experiment and try everything
+1. Communication
+2. The possibility for everyone to experiment and try everything
+3. **Structure**, **clarity** in tasks and work division
 
 
 
@@ -71,7 +71,7 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 ![]()
 ----------------------------------------------------------------------------------------------
 
-## Contacts
+## Find me around the web 
 
 | Websites | links |
 | ------ | ------ |
