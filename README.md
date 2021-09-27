@@ -7,10 +7,14 @@ My name is **Anne** and I am a trainee at **Becode**.
 
 ## Who I am in a funny way
 
+I am a junior web developer at Becode[Becode](https://becode.org/). 
+
 If I would have to describe my character, I would say that I am a little bit a mix of an **introvert/extravert**. I like to be surrounded with people but I also appreciate to be alone. I find it very important to make time for myself each day. To practice sport (like to do **yoga** or to do **jogging**) enables that I can be with my own and take care of myself. I also enjoy to walk alone and listening to interesting **podcasts** at the same time. 
 I can be funny and social but I need to feel comfortable with people first :simple_smile:.
 
+
 Besides to do sport, in my free time I really like to read **books** and to go to event related to **art** (music events, exhibitions, etc.). I really like all sort of art but I have a slight preference for **modern art**. To sum it up, my interests are a mix of sciences, new technologies and art. I am always up for a good conversation about those topics.
+
 
 I consider myself as a non stop learner in my career of my free time. I am also passionated about languages, I am learning German and would like later in my life to learn **danish**, **arabic** and **russian**. 
 
