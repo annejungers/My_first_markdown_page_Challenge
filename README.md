@@ -8,7 +8,7 @@ I am a junior web developer at [Becode](https://becode.org/).
 ![](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif)
 
 If I would have to describe my character, I would say that I am a little bit a mix of an **introvert/extravert**. I like to be surrounded with people but I also appreciate to be alone. I find it very important to make time for myself each day. To practice sport (like to do **yoga** or to do **jogging**) enables that I can be with my own and take care of myself. I also enjoy to walk alone and listening to interesting **podcasts** at the same time. 
-I can be funny and social but I need to feel comfortable with people first :simple_smile:
+I can be funny and social but I need to feel comfortable with people first  :smile:
 
 
 Besides to do sport, in my free time I really like to read **books** and to go to event related to **art** (music events, exhibitions, etc.). I really like all sort of art but I have a slight preference for **modern art**. To sum it up, my interests are a mix of sciences, new technologies and art. I am always up for a good conversation about those topics.
