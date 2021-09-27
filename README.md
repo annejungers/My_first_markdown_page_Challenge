@@ -17,19 +17,19 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 ----------------------------------------------------------------------------------------------
 
 ## List of my three most surprising skills
-1. I speak three languages fluently and have notion of German
-2. I have two nationality (Belgian and Luxembourgish)
+1. I speak three languages *French - Dutch - English* fluently and have notion of German
+2. I have two nationalities *Belgian - Luxembourgish*
 3. I have an amazing sense of direction 
 
 
 ## List of the three things I like the most in this universe 
 1. Berlin
-2. French frites
+2. New Technologies
 3. Healthy food
-    + Fish
-    + Vegetables
-    + Fruit
-    + Green tea
+    + Fish :fish:
+    + Vegetables :broccoli:
+    + Fruit :banana:
+    + Green tea :tea:
 
 
 ## Objectives I want to achieve as a Developer during my time at Becode
@@ -37,19 +37,20 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 * Managing to incorporate AI in my deveper skills
 * Meeting all the new interesting becode colleagues :heart_eyes:
 * Deepening my knowledge in New Technology
-* Learning the basic of hacking and cybersecurity :space_invader: :bomb:
+* Learning the basic of *hacking* and *cybersecurity* :space_invader: :bomb:
 
 
 
 ## Fears I might have 
 * Having to much stress, being anxious
-* Having trouble to be social and work in team
+* Being stuck during hours with the same bug
 * Having trouble to reach for help
 
 
 ## The things I look forward to 
 * Learning new things
-* Creating things
+* Creating/Developing new things
+* Build my first bot :robot:
 * Practice my English with the Becode people from abroad
 * Looking for a new interesting job in IT
 * Have a week holiday and travel (because it has been a long time ago)
